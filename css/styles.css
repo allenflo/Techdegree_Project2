@@ -92,8 +92,6 @@ h5 {
 .introimage {
     width: 70%;
     max-width: 80%;
-    
-   
 }
 
 img {
@@ -134,21 +132,14 @@ hr {
     margin-right: auto;
 }
 
-
 ul {
     list-style-type: none;
     background-color: rgb(230,230,230);
-   
-    
 }
-
 
 .name {
     float: left;
     margin-left: 20px;
-    
-    
-    
 }
 
 .bottomnav  {
@@ -169,24 +160,14 @@ ul {
 /* ------------------Media Queries-----------------------*/
 
 
-
-
-
-
 @media (min-width: 768px)   {
     
-    
-    
-
     nav ul {
-       
-        
         margin-left: auto;
         margin-right: auto;
         }
 
     nav li {
-        
         display: inline;
         padding-left: 5px;
         background-color: rgb(230, 230, 230);
@@ -259,9 +240,7 @@ ul {
 
 @media (min-width: 1024px) {
     
-   
-    
-    h1 {
+   h1 {
         float: left;
         /* background: blue; */
         width: 60%;
@@ -296,10 +275,7 @@ ul {
           float: left;     
     }
 
-    
-    
-
-     .top {
+    .top {
         display: none;
     }
 
