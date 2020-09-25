@@ -12,7 +12,7 @@ body {
     text-align: center;
     font-family: hind;
     background-color: white;
-    padding-top: 40;
+    padding-top: 40px;
     background-color: rgb(230,230,230);
 }
 
@@ -73,7 +73,7 @@ h1 {
 }
 
 h2 {
-    margin: 30px, 0, 5px, 0;
+    margin: 30px 0 5px 0;
 }
 
 h3 {
@@ -180,7 +180,7 @@ ul {
 
     nav ul {
        
-        text-orientation: center;
+        
         margin-left: auto;
         margin-right: auto;
         }
